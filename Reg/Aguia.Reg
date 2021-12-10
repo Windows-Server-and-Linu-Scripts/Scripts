@@ -1,0 +1,3 @@
+REGEDIT
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"Águia Desktop Enginner"="C:\Aguia Desktop\Aguia Desktop.exe"
